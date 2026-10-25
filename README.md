@@ -39,7 +39,7 @@ The project uses `gpt-4o-mini` for the four main strategies and `gpt-4o` for jud
 Open a terminal in the `Source` folder:
 
 ```powershell
-cd "D:\MyRepository\MyAgenticAI-&-RAG\Pravartak\Mini-Project-W5\Source"
+cd "...\Mini-Project\Source"
 ```
 
 Create and activate a virtual environment if you do not already have one:
